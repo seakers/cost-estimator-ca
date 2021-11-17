@@ -1,0 +1,26 @@
+==> 2021-11-16 20:24:34 <==
+# cmd: C:\Users\apaza\anaconda3\Scripts\conda-script.py create --prefix ./.env
+# conda version: 4.10.1
+==> 2021-11-16 20:36:53 <==
+# cmd: C:\Users\apaza\anaconda3\Scripts\conda-script.py install xlwings
+# conda version: 4.10.1
++conda-forge/noarch::pip-21.3.1-pyhd8ed1ab_0
++conda-forge/noarch::tzdata-2021e-he74cb21_0
++conda-forge/noarch::wheel-0.37.0-pyhd8ed1ab_1
++conda-forge/win-64::bzip2-1.0.8-h8ffe710_4
++conda-forge/win-64::ca-certificates-2021.10.8-h5b45459_0
++conda-forge/win-64::libffi-3.4.2-h8ffe710_5
++conda-forge/win-64::libzlib-1.2.11-h8ffe710_1013
++conda-forge/win-64::openssl-3.0.0-h8ffe710_2
++conda-forge/win-64::python-3.10.0-hcf16a7b_2_cpython
++conda-forge/win-64::python_abi-3.10-2_cp310
++conda-forge/win-64::pywin32-302-py310he2412df_2
++conda-forge/win-64::setuptools-59.1.1-py310h5588dad_0
++conda-forge/win-64::sqlite-3.36.0-h8ffe710_2
++conda-forge/win-64::tk-8.6.11-h8ffe710_1
++conda-forge/win-64::ucrt-10.0.20348.0-h57928b3_0
++conda-forge/win-64::vc-14.2-hb210afc_5
++conda-forge/win-64::vs2015_runtime-14.29.30037-h902a5da_5
++conda-forge/win-64::xlwings-0.25.0-py310h5588dad_1
++conda-forge/win-64::xz-5.2.5-h62dcd97_1
+# update specs: ['xlwings']
